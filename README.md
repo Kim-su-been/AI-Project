@@ -1,30 +1,30 @@
 # AI-Project-Temp
 
-# 🚗 나만의 운전파트너 : **차비스**  
+# 🚗 Personalized driving partner : **차비스**  
 
-**실시간으로 대화가 가능한 대화형 네비게이션**입니다.  
-길을 안내하며 주변 핫플레이스 추천, 사용자 발화 감정분석을 통한 감정 컨트롤 기능, 실시간 운전 피드백 기능을 제공합니다.
+**Interactive navigation with real-time conversations**
+It provides directions, emotion control through sentiment analysis of user utterances, and real-time driving feedback.
 
-> **운전할 때 옆 사람이 말 걸어주고 길 찾고, 어디 갈지 찾고, 화나거나 흥분했을 때 공감해주고 진정시키는 것을 AI가 도와드립니다.**  
+> **In addition to acting as a talking assistant when you're driving, AI can help you find your way around, figure out where to go, and empathize and calm you down when you're angry or upset**
 
 ---
 
-## 🛠️ **기능 소개**  
+## 🛠️ **Feature Introduction**  
 
-### 1. 기본 대화 및 길찾기 기능  
-- **기본 대화 기능** 제공  
-- **네비게이션과 동일한 길찾기 기능** 제공  
+### 1. Basic conversations and directions  
+- Provide **basic conversation functionality**
+- Provide **the same directions as navigation**
 
-### 2. 실시간 데이터 수집 및 분석  
-- **SK 네트워크**를 활용해 **교통, 날씨, 지역 이벤트 정보를 실시간으로 수집 및 분석**  
-- 특정 지역이나 이벤트, 맛집에 대한 **평가 및 리뷰 요약 제공**  
-    - **예시**:  
-      > "앞으로 가는 길에 축제가 열리고 있어요. 소셜 미디어에서 좋은 평가가 많네요. 들러보시겠어요?"  
+### 2. Real-time data collection and analysis  
+- Use the **SK network** to collect and analyze **traffic, weather, and local event information in real time**
+- Provide **ratings and review summaries** for a specific area, event, or restaurant.
+    - **example**:  
+      > “There's a festival on the way up, lots of good reviews on social media, would you like to stop by?”
 
-- **개인별 추천 시스템**  
-  - 사용자의 **관심사, 주행 패턴, 목적지**를 고려한 맞춤형 정보 제공  
-  - 사용자 발화를 듣고 **기본 대화**와 **검색 기능**으로 분류하여 처리  
-    - 검색 필요 시, **Google Search**를 활용해 실시간 정보 반영  
+- **Personalized recommendation system**  
+  - Provide personalized information based on your **interests, driving patterns, and destinations**
+  -  Listen to user speech and categorize it into **basic conversations** and **search functions**
+    -  Use **Google Search** to reflect real-time information when needed
 
 ---
 
